@@ -22,7 +22,7 @@ services:
   graphql-engine:
     image: hasura/graphql-engine:v1.1.0.cli-migrations
     ports:
-      - target: 8080
+      - target: 8085
         published: ${HASURA_ENDPOINT_PORT}
         protocol: tcp
         mode: host

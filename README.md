@@ -191,4 +191,5 @@ It's somewhat radical event-driven, async, reactive architecture pattern (Redux-
 ## License
 
 [MIT License](./LICENSE). Copyright &copy; 2019, Gil B. Chan <[bnbcmindnpass@gmail.com](mailto:bnbcmindnpass@gmail.com)> ([@jjangga0214](https://github.com/jjangga0214))
+
 # collab-anarchy-be
